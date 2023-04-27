@@ -1,0 +1,29 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    outline: 1px solid black;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+.title{
+
+}
+
+.scoreBoxes{
+    display: flex;
+ 
+    align-items: center;
+    gap: 5vw;
+}
+
+.score, .hiscore{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    outline: 2px solid black;
+    width: 8vw;
+    height: 8vw;
+    font-size: 2vw;
+}
