@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.dabee97e.css",
+    "main.js": "/react-gh-pages/static/js/main.8633ecd5.js",
+    "static/media/bikini.webp": "/react-gh-pages/static/media/bikini.7fd43c7bbd6c9b60a035.webp",
+    "static/media/mrKrabs.jpeg": "/react-gh-pages/static/media/mrKrabs.db12e9490d49ff3aa2e5.jpeg",
+    "static/media/doodlebob.jpeg": "/react-gh-pages/static/media/doodlebob.a335c9b01e171e06ae7c.jpeg",
+    "static/media/spongebob.jpeg": "/react-gh-pages/static/media/spongebob.f9359002532ae4d0677f.jpeg",
+    "static/media/larry.jpeg": "/react-gh-pages/static/media/larry.f9657ce5747b9a20324c.jpeg",
+    "static/media/patrick.jpeg": "/react-gh-pages/static/media/patrick.341c5cf9357063989bf7.jpeg",
+    "static/media/squidward.jpeg": "/react-gh-pages/static/media/squidward.c7c1e41750a3f7a68354.jpeg",
+    "static/media/gary.jpeg": "/react-gh-pages/static/media/gary.804fccaae194021da1f6.jpeg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.dabee97e.css.map": "/react-gh-pages/static/css/main.dabee97e.css.map",
+    "main.8633ecd5.js.map": "/react-gh-pages/static/js/main.8633ecd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dabee97e.css",
+    "static/js/main.8633ecd5.js"
+  ]
+}
