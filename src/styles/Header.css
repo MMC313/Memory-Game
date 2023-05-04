@@ -1,9 +1,12 @@
 .header{
     display: flex;
     justify-content: space-between;
-    outline: 1px solid black;
+    
     padding-left: 5vw;
     padding-right: 5vw;
+    background-image: linear-gradient(45deg, #0891b2, #22d3ee);
+    padding-top: 2vh;
+    padding-bottom: 2vh;
 }
 
 .title{
@@ -12,12 +15,12 @@
 
 .scoreBoxes{
     display: flex;
- 
     align-items: center;
     gap: 5vw;
 }
 
 .score, .hiscore{
+    border-radius: 5px;
     display: flex;
     flex-direction: column;
     justify-content: center;
